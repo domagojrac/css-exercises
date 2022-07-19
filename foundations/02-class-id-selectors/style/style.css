@@ -1,0 +1,19 @@
+
+.neparni_elementi {
+    background-color: palevioletred;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#drugi_element {
+    font-size: 36px;
+    color: blue;
+}
+
+.tri_cetiri {
+    font-size: 24px;
+}
+
+#cetiri {
+    background-color: lightgreen;
+    font-size: bold;
+}
